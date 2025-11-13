@@ -14,6 +14,8 @@ https://app.datacamp.com/
 
 https://www.codecademy.com/learn
 
+https://www.sololearn.com/en/learn/courses/python-introduction
+
 ### Environment Setup
 
 #### These are all ways to run ipynb files/jupyter notebooks
