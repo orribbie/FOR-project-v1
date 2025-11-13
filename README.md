@@ -1,14 +1,14 @@
-#Foundations Of Robotics Project Resources
+# Foundations Of Robotics Project Resources
 
-####Google tutorial: 
+#### Google tutorial: 
 
 https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb
 
-####Mujoco Documentation:
+#### Mujoco Documentation:
 
 https://mujoco.readthedocs.io/en/stable/overview.html
 
-####Python Learning Resources:
+#### Python Learning Resources:
 
 https://app.datacamp.com/
 
