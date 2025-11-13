@@ -16,6 +16,8 @@ https://www.codecademy.com/learn
 
 https://www.sololearn.com/en/learn/courses/python-introduction
 
+https://www.reddit.com/r/learnpython/wiki/index/
+
 ### Environment Setup
 
 #### These are all ways to run ipynb files/jupyter notebooks
