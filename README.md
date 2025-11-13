@@ -5,5 +5,7 @@ Google tutorial: https://colab.research.google.com/github/google-deepmind/mujoco
 https://mujoco.readthedocs.io/en/stable/overview.html
 
 Python Learning Resources:
+
 <a>https://app.datacamp.com/</a>
+
 <a>https://www.codecademy.com/learn</a>
