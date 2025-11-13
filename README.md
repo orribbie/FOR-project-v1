@@ -1,15 +1,15 @@
-Repository containing Mujoco files
+#Foundations Of Robotics Project Resources
 
-Google tutorial: 
+####Google tutorial: 
 
 https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python/tutorial.ipynb
 
-Mujoco Documentation:
+####Mujoco Documentation:
 
 https://mujoco.readthedocs.io/en/stable/overview.html
 
-Python Learning Resources:
+####Python Learning Resources:
 
-<a>https://app.datacamp.com/</a>
+https://app.datacamp.com/
 
-<a>https://www.codecademy.com/learn</a>
+https://www.codecademy.com/learn
