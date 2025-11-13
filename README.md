@@ -8,7 +8,7 @@ https://colab.research.google.com/github/google-deepmind/mujoco/blob/main/python
 
 https://mujoco.readthedocs.io/en/stable/overview.html
 
-#### Python Learning Resources:
+#### Learn Python:
 
 https://app.datacamp.com/
 
