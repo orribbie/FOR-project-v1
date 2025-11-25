@@ -16,6 +16,8 @@ https://www.codecademy.com/learn
 
 https://www.sololearn.com/en/learn/courses/python-introduction
 
+https://codingbat.com/python
+
 https://www.reddit.com/r/learnpython/wiki/index/
 
 ### Environment Setup
